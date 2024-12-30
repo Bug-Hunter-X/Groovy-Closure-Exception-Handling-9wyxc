@@ -1,0 +1,2 @@
+# Groovy Closure Exception Handling
+This example demonstrates a common issue in Groovy when dealing with exceptions thrown inside closures.  The code showcases a scenario where an exception thrown within a closure isn't handled by a try-catch block in the main method. The solution demonstrates how to properly handle exceptions in closures for robust code.
